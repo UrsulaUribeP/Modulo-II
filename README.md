@@ -1,11 +1,11 @@
 
 # Proyecto Final – Módulo II: Técnicas Estadísticas
 
-**Universidad:** [Nombre de la institución]  
+**Universidad:** UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO. Facuktad de Estudios Superiores Acatlán  
 **Estudiante:** Ursula Uribe  
 **Materia:** Técnicas Estadísticas  
-**Profesor:** [Nombre del profesor]  
-**Fecha:** Octubre 2025
+**Profesor:** Act. Claudia Reyes  
+**Fecha:** 06 Octubre 2025
 
 El presente proyecto integra los contenidos del Módulo II de Técnicas Estadísticas, con el objetivo de mostrar la comprensión de los conceptos fundamentales de probabilidad, variables aleatorias y estadística inferencial.
 A lo largo de los tres notebooks se presentan ejemplos prácticos y visualizaciones en Python que permiten reforzar la interpretación de los resultados estadísticos y su aplicación en problemas reales.
