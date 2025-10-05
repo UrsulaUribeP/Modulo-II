@@ -1,8 +1,8 @@
 
 # Proyecto Final – Módulo II: Técnicas Estadísticas
 
-**Universidad:** UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO. Facuktad de Estudios Superiores Acatlán  
-**Estudiante:** Ursula Uribe  
+**Universidad:** UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO. Facultad de Estudios Superiores Acatlán  
+**Estudiante:** Ursula Uribe Pérez
 **Materia:** Técnicas Estadísticas  
 **Profesor:** Act. Claudia Reyes  
 **Fecha:** 06 Octubre 2025
