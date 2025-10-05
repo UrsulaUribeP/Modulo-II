@@ -1,2 +1,1 @@
-# Modulo-II
-Modulo II: Tecnicas Estadisticas
+Reemplazo README con versión del proyecto
